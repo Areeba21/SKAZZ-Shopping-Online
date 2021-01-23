@@ -1,5 +1,8 @@
 .navbar{
-    background-color: rgb(235, 15, 15);
+    background-color: black;
+    color: white;
+    
+    
 
 }
 .card{
@@ -10,5 +13,14 @@
 .col{
     border-image: space;
     background-color: black;
+    
+}
+.h3{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fa{
+    width: 25px;
+    height: 30px;
     
 }
